@@ -1,0 +1,21 @@
+Crop Index,Crop Name,Image Data,Temperature (°C),Humidity (%),Pest Infestation (%)
+1,Maize,0.85,25,70,15
+2,Wheat,0.72,20,65,10
+3,Rice,0.91,28,80,20
+4,Soybean,0.88,22,75,12
+5,Cotton,0.78,30,60,8
+6,Sugarcane,0.95,27,85,18
+7,Sunflower,0.82,24,72,11
+8,Groundnut,0.79,26,68,13
+9,Jute,0.86,29,82,19
+10,Tobacco,0.75,21,63,9
+11,Coffee,0.92,23,77,14
+12,Tea,0.89,25,73,16
+13,Coconut,0.84,28,78,17
+14,Rubber,0.77,22,69,10
+15,Mango,0.9,26,74,12
+16,Banana,0.87,29,81,19
+17,Apple,0.76,21,66,9
+18,Grape,0.83,24,71,11
+19,Orange,0.8,27,76,13
+20,Tomato,0.85,25,70,15
